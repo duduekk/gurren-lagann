@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom, black, green);
+}
+#welcome{
+    color: rgb(111, 253, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#username{
+    color: rgb(111, 253, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#nazwa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#hasło{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#przycisk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#kontakt{
+    color: rgb(111, 253, 99);
+    text-align: center;
+    margin-top: 333px;
+}
